@@ -12,7 +12,7 @@ ZZMetro-INC 是一个面向城市轨道交通“特情识别—风险预测—�
 - 邻接边（adjacency_edges）：272
 - 时间范围：2010-05-26T00:00:00 ~ 2025-12-19T14:00:00
 
-## 仓库结构（推荐开源方式）
+## 仓库结构
 ```
 ZZMetro-INC/
   data/
@@ -46,12 +46,12 @@ ZZMetro-INC/
   sha256sums.txt
 ```
 
-## 核心文件（训练/论文最常用）
+## 核心文件
 - **最终训练表（不含天气）**：`data/processed/panels/station_hourly_panel_2022_2025_AC.csv.gz`
 - **最终训练表（含天气）**：`data/processed/panels/station_hourly_panel_2022_2025_AC_weather.csv.gz`
 - **图结构**：`line_stations.csv` + `adjacency_edges.csv`
 
-## 推荐任务（与你的论文一致）
+## 推荐任务
 - **T1：event_count**（站点×小时事件计数）
 - **T2：risk_level**（风险等级）
 - **T3：hitl_trigger**（是否触发人工介入）
