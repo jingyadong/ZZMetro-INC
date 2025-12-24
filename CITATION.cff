@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "ZZMetro-INC: Zhengzhou Metro Incident & Response Spatiotemporal Risk Dataset"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: "ZZMetro-INC"
+    given-names: "Consortium"
+date-released: 2025-12-24
+license: "CC BY-NC 4.0 (derived annotations only; sources retain original copyrights)"
+repository-code: "https://github.com/<your_org>/ZZMetro-INC"
+keywords:
+  - metro
+  - incident management
+  - spatiotemporal modeling
+  - conformal prediction
+  - human-in-the-loop
