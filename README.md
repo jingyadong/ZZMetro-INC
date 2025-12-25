@@ -39,7 +39,7 @@ ZZMetro-INC/
   docs/
     task_definition.md
     reproduce_paper.md
-  CODEBOOK.md                            # 字段字典（强烈建议公开）
+  CODEBOOK.md                            # 字段字典
   DATASET_CARD.md                        # 数据集卡片（动机/限制/偏差/伦理）
   CITATION.cff
   LICENSE
