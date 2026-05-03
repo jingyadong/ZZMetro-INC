@@ -1,14 +1,14 @@
 # CODEBOOK(Field Dictionary)
 
 ## 1) data/processed/events_labeled.csv(Event level)
--Doc_id: Unique ID of the event
--Source Domain: Source Domain
--Source_url: Original text link (traceability)
--Title: Title (Public Truncable)
--Pseudo label/label-name: Class 5 event labels
--Severity: Severity (0-3)
--Event_published.at: Announcement release time (ISO)
--Event_ts_hour: hourly time slice (used for panel aggregation)
+- Doc_id: Unique ID of the event
+- Source Domain: Source Domain
+- Source_url: Original text link (traceability)
+- Title: Title (Public Truncable)
+- Pseudo label/label-name: Class 5 event labels
+- Severity: Severity (0-3)
+- Event_published.at: Announcement release time (ISO)
+- Event_ts_hour: hourly time slice (used for panel aggregation)
 
 ## 2) data/processed/samples_labeled.csv(Evidence level/sample level)
 -Sample_id: Unique ID of evidence
