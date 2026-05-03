@@ -5,12 +5,12 @@ ZZMetro-INC is a multi-table spatiotemporal dataset for urban rail transit "Spec
 > **Incident Classification (5 classes) → Station×Hour Risk Prediction → Trustworthy Prediction (EDL + Conformal) → Low-Confidence Triage to Human (HITL)**
 
 ## Overview of Data Scale
--Events: 872
--Evidence samples: 3160
--Stations: 231
--Lines: 13
--Adjacent edges: 272
--Time range: 2010-05-26T00:00:00~2025-12-31T23:59:59
+- Events: 872
+- Evidence samples: 3160
+- Stations: 231
+- Lines: 13
+- Adjacent edges: 272
+- Time range: 2010-05-26T00:00:00~2025-12-31T23:59:59
 
 ## Warehouse structure
 ```
