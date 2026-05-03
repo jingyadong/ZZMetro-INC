@@ -59,4 +59,4 @@ ZZMetro-INC/
 > Task caliber and suggested indicators can be found in：`docs/task_definition.md`
 
 ##  Compliance and Copyright
-This repository defaults to publishing * * structured annotations and derived features * *. The original announcement/news full text may be subject to copyright/terms constraints of the source site; This repository uses' source_url 'as a traceable reference, and reproductors can retrieve and use it locally according to the terms of each site.
+This repository defaults to publishing **structured annotations and derived features**. The original announcement/news full text may be subject to copyright/terms constraints of the source site; This repository uses' source_url 'as a traceable reference, and reproductors can retrieve and use it locally according to the terms of each site.
