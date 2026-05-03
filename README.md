@@ -1,6 +1,6 @@
 # ZZMetro-INC (Zhengzhou Metro Incidents dataset)：A Spatiotemporal Risk Dataset for Metro Special Incidents and Collaborative Disposal (Station×Hour)
 
-ZZMetro-INC is a multi-table spatiotemporal dataset for urban rail transit "Incident Recognition—Risk Prediction—Trustworthy Decision-making—Human-in-the-Loop Collaborative Response (HITL)", covering **incident-level supervisory signals**, **evidence-level multi-tier labels**, **station–line–adjacency graph structure**, and **station×hour risk panel (with weather exogenous variables)**, directly supporting research and reproducible experiments:
+ZZMetro-INC is a multi-table spatiotemporal dataset for urban rail transit "Incident Recognition——Risk Prediction——Trustworthy Decision-making—Human-in-the-Loop Collaborative Response (HITL)", covering **incident-level supervisory signals**, **evidence-level multi-tier labels**, **station–line–adjacency graph structure**, and **station×hour risk panel (with weather exogenous variables)**, directly supporting research and reproducible experiments:
 
 > **Incident Classification (5 classes) → Station×Hour Risk Prediction → Trustworthy Prediction (EDL + Conformal) → Low-Confidence Triage to Human (HITL)**
 
