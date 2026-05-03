@@ -1,6 +1,6 @@
-# ZZMetro-INC：郑州地铁特情事件与协同处置时空风险数据集（Station×Hour）
+# ZZMetro-INC (Zhengzhou Metro Incidents dataset)：A Spatiotemporal Risk Dataset for Metro Special Incidents and Collaborative Disposal (Station×Hour)
 
-ZZMetro-INC 是一个面向城市轨道交通“特情识别—风险预测—可信决策—人机协同处置（HITL）”的多表时空数据集，覆盖 **事件级监督信号**、**证据级多级标签**、**站点—线路—邻接图结构** 与 **站点×小时风险面板（含天气外生变量）**，可直接支撑研究与可复现实验：
+ZZMetro-INC is a multi-table spatiotemporal dataset for urban rail transit "Incident Recognition—Risk Prediction—Trustworthy Decision-making—Human-in-the-Loop Collaborative Response (HITL)", covering **incident-level supervisory signals**, **evidence-level multi-tier labels**, **station–line–adjacency graph structure**, and **station×hour risk panel (with weather exogenous variables)**, directly supporting research and reproducible experiments:
 
 > **事件分类（5类） → 站点×小时风险预测 → 可信预测（EDL + Conformal） → 低置信分诊至人工（HITL）**
 
