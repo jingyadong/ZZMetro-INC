@@ -52,9 +52,9 @@ ZZMetro-INC/
 - **Graph structure**：`line_stations.csv` + `adjacency_edges.csv`
 
 ## Recommended tasks
-- **T1：event_count**(Station x Hour Event Count)
-- **T2：risk_level**(Risk level)
-- **T3：hitl_trigger**(Whether to trigger manual intervention)
+- **T1：event_count** (Station x Hour Event Count)
+- **T2：risk_level** (Risk level)
+- **T3：hitl_trigger** (Whether to trigger manual intervention)
 
 > Task caliber and suggested indicators can be found in：`docs/task_definition.md`
 
